@@ -634,8 +634,12 @@ display: none;
 	}
 	.seccion2{
 		margin-top: 120px;
+}
+
+
+
 	
-	}
+	
 .buscador2 input[type=text]{
 	display: block;
 	float:none;
@@ -682,6 +686,27 @@ padding-left: 1.666666666666%;
 		width: 70%;
 		margin: 30px auto;
 	}
+.cuadro-precios1{
+	width: 95%;
+	margin: 2.5%;
+}
+
+.cuadro-precios2{
+	width: 95%;
+	margin: 2.5%;
+}
+
+.cuadro-precios3{
+	width: 95%;
+	margin: 2.5%;
+}
+.cuadro-precios4{
+	width: 95%;
+	margin: 2.5%;
+	}
+
+
+
 .buscador2 button{
 	width: 25%;
 	left: 38%;
